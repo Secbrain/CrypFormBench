@@ -15,7 +15,7 @@
 
 ---
 
-## View web page on https://Eval4LLMs.github.io/CrypFormBench
+## View web page on https://Secbrain.github.io/CrypFormBench
 
 ## 🔗 Quick Links
 
@@ -334,7 +334,7 @@ Based on the given description of the KEM-DEM construction …
 }
 ```
 
-> Tip: On the website https://Eval4LLMs.github.io/CrypFormBench, the "Evaluation Process" panel defaults to
+> Tip: On the website https://Secbrain.github.io/CrypFormBench, the "Evaluation Process" panel defaults to
 > `generation / <available-language> / llama4-maverick-instruct-basic`.
 > You can switch task/language/model from the dropdowns; the five blocks above are populated from the
 > corresponding JSON entry.
@@ -355,7 +355,7 @@ Based on the given description of the KEM-DEM construction …
 
 ```bash
 # 1) Clone
-git clone https://github.com/Eval4LLMs/CrypFormBench.git
+git clone https://github.com/Secbrain/CrypFormBench.git
 cd CrypFormBench
 
 # 2) (Optional) Virtual env
