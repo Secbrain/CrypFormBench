@@ -155,7 +155,7 @@ In the camera-ready version, we will (i) explicitly clarify in §4.4–§4.5 how
 
 > *Q5. Although the logic behind the design of the five tasks is clear, it would be helpful to provide specific “input-output-validation” examples for each task in the main text. This will improve readers' understanding of the practical application of each task.*
 
- We agree that concrete examples would make the five tasks much easier to understand in practice. In the current version, Fig. 2 and the text in §3.3 describe the tasks conceptually, and provide interactive, step-by-step examples in our [online repository](https://eval4llms.github.io/CrypFormBench). As you suggested, in the revised version, we will integrate these examples as a small figure or table in §3–§4 and keep the interactive animations and additional examples in the online repository as a complementary resource. We believe this will make the practical meaning of each task much clearer to readers.
+ We agree that concrete examples would make the five tasks much easier to understand in practice. In the current version, Fig. 2 and the text in §3.3 describe the tasks conceptually, and provide interactive, step-by-step examples in our [online repository](https://Secbrain.github.io/CrypFormBench). As you suggested, in the revised version, we will integrate these examples as a small figure or table in §3–§4 and keep the interactive animations and additional examples in the online repository as a complementary resource. We believe this will make the practical meaning of each task much clearer to readers.
 
 ------
 
@@ -205,7 +205,7 @@ These observations support that (i) different encoders agree not only at the agg
 
 **B2.2. Human audit of high-/low-similarity cases.**
 
-Additionally, the corresponding label-predict pairs including logic and notations (e.g., woo-lam.spdl, nsl3.spdl, Anonymous_E2E_authenticated_key_exchange_scheme.hlpsl, IKEv2-DS.hlpsl) are included in our [GitHub repository](https://github.com/Eval4LLMs/CrypFormBench/tree/main/examples), which further demonstrate the correctness of our semantic similarity calculation.
+Additionally, the corresponding label-predict pairs including logic and notations (e.g., woo-lam.spdl, nsl3.spdl, Anonymous_E2E_authenticated_key_exchange_scheme.hlpsl, IKEv2-DS.hlpsl) are included in our [GitHub repository](https://github.com/Secbrain/CrypFormBench/tree/main/examples), which further demonstrate the correctness of our semantic similarity calculation.
 
 **B2.3. Ground-truth logic descriptions (correctness of labels).**
 
